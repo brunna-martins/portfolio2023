@@ -30,6 +30,9 @@ header {
     flex-wrap: wrap;
     padding: .8rem;
     background-color: var(--darkest);
+    z-index: 10000;
+    position: fixed;
+    width: 100%;
 }
 
 nav {
